@@ -1,0 +1,17 @@
+
+
+// Import Global
+@import "./global/reset"; /* ./gobal/_reset.scss */
+@import "./global/variables"; /* ./gobal/_variable.scss */
+
+// Import Mixin
+@import "./mixins/responsive"; /* ./mixins/_responsive.scss */
+
+// Import Components
+@import "./components/header"; /* ./components/_header.scss */
+
+
+
+body {
+  background: black;
+}
